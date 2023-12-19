@@ -56,18 +56,22 @@ body,
     font-size: 50px;
     text-align: center;
     color: #cb9b8f;
-
+    word-spacing: 80px;
 }
 
-.head {
+.heads {
     display: inline;
     font-size: 20px;
+
+
 }
 
-h1 {
+
+
+/*h1 {
     font-size: 90px;
     margin-left: 10px;
-}
+}*/
 
 .nav {
     display: flex;
@@ -194,4 +198,15 @@ img {
 
 .item:hover .img1 {
     display: none;
+}
+
+.text123 {
+    text-decoration: none;
+    color: #cb9b8f;
+}
+
+.menu {
+    color: #cb9b8f;
+    text-decoration: none;
+
 }
